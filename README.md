@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="img/0xShakhawat.jpg" alt="Welcome!" width="300"/>
+<img src="img/0xShakhawat.jpg" alt="Welcome!"/>
 
 </div>
 
