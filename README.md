@@ -30,7 +30,7 @@ Hi, I'm Shakhawat Hossain, a cybersecurity enthusiast passionate about ethical h
 -  How to reach me **0xShakhawat@proton.me**
 
 ## CTF profiles:
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xShakhawat.png" alt="Your TryHackMe Badge" />  >
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xShakhawat.png" alt="Your TryHackMe Badge" />
 
 ## GitHub Stats  
 .  
