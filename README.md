@@ -32,9 +32,12 @@ Hi, I'm Shakhawat Hossain, a cybersecurity enthusiast passionate about ethical h
 ## CTF profiles:
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xShakhawat.png" alt="Your TryHackMe Badge" />  >
 
-## GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xShakhawat&" alt="0xShakhawat" /></p>
-<br/>
+## GitHub Stats  
+.  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xShakhawat&" alt="0xShakhawat" /></p>  
+  
+<br/>  
+
 ![Profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xShakhawat&theme=github_dark)
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xShakhawat&theme=github_dark)
 ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xShakhawat&theme=github_dark)
